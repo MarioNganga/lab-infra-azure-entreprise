@@ -172,6 +172,6 @@ Les futures versions du laboratoire pourraient inclure :
 * La centralisation des journaux (logging)
 * Un SIEM Wazuh
 * La supervision (monitoring)
-* Le déploiement automatisé avec Terraform
+
 * Des tests de sauvegarde et de restauration
 * Des investigations d'alertes de sécurité
